@@ -1,6 +1,6 @@
 {
   "name": "@totea/mongone",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "inject mongone & make RESTful APIs for totea",
   "author": "aimleo",
   "license": "MIT",
